@@ -1,4 +1,4 @@
 - Year/Section: 3rd year / G01
 - Favorite Language: Java, Kotlin
 - One Git Tip Learned: Use `git status` often
-- Github: @franzravensanchez@gmail.com
+- Github: @Franz-Raven
